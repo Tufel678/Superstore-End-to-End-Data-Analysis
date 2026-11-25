@@ -65,7 +65,7 @@ Superstore-End-to-End-Data-Analysis/
 - Used slicers to make the dashboard interactive.
 
 📊 Key Business Metrics
-
+```
 Metric               Value
 Total Sales          $2,297,200.86
 Total Profit         $286,397.02
@@ -73,9 +73,9 @@ Total Orders         5,009
 Total Quantity       37,873
 Profit Margin        12.47%
 Average Order Value  $458.61
-
+```
 📈 Key Analysis Areas
-
+ 
 - Sales and Profit by Category
 - Sales and Profit by Region
 - Monthly Sales Trends
