@@ -101,6 +101,14 @@ Mohammad Tufel
 
 B.Tech Computer Science and Engineering | 2026 Graduate
 
+## 📊 Dashboard Screenshots
+
+### Excel Dashboard
+![Excel Dashboard](05_Dashboard_Screenshots/Excel.png)
+
+### Power BI Dashboard
+![Power BI Dashboard](05_Dashboard_Screenshots/Powerbi.png)
+
 🔗 Project Repository
 
 "View Complete Project on GitHub" (https://github.com/Tufel678/Superstore-End-to-End-Data-Analysis)
