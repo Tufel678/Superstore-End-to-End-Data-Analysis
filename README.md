@@ -25,7 +25,7 @@ The project follows an end-to-end data analytics workflow using Python, MySQL, E
 - Microsoft Excel: Data Analysis and Dashboard
 - Power BI: Interactive Dashboard and Data Visualization
 
- ## 📂 Project Structure
+  ## 📂 Project Structure
 
 ```text
 Superstore-End-to-End-Data-Analysis/
