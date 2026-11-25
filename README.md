@@ -104,7 +104,9 @@ Mohammad Tufel
 
 B.Tech Computer Science and Engineering | 2026 Graduate
 
-GitHub: "Tufel678" (https://github.com/Tufel678)
+🔗 Project Repository
+
+"View Complete Project on GitHub" (https://github.com/Tufel678/Superstore-End-to-End-Data-Analysis)
 
 ---
 
