@@ -25,7 +25,7 @@ The project follows an end-to-end data analytics workflow using Python, MySQL, E
 - Microsoft Excel: Data Analysis and Dashboard
 - Power BI: Interactive Dashboard and Data Visualization
 
-  ## 📂 Project Structure
+## 📂 Project Structure
 
 ```text
 Superstore-End-to-End-Data-Analysis/
@@ -66,13 +66,13 @@ Superstore-End-to-End-Data-Analysis/
 
 📊 Key Business Metrics
 
-Metric| Value
-Total Sales| $2,297,200.86
-Total Profit| $286,397.02
-Total Orders| 5,009
-Total Quantity| 37,873
-Profit Margin| 12.47%
-Average Order Value| $458.61
+Metric               Value
+Total Sales          $2,297,200.86
+Total Profit         $286,397.02
+Total Orders         5,009
+Total Quantity       37,873
+Profit Margin        12.47%
+Average Order Value  $458.61
 
 📈 Key Analysis Areas
 
@@ -104,10 +104,10 @@ B.Tech Computer Science and Engineering | 2026 Graduate
 ## 📊 Dashboard Screenshots
 
 ### Excel Dashboard
-![Excel Dashboard](05_Dashboard_Screenshots/Excel.png)
+![Excel Dashboard](05_Dashboard%20screenshots/Excel.png)
 
 ### Power BI Dashboard
-![Power BI Dashboard](05_Dashboard_Screenshots/Powerbi.png)
+![Power BI Dashboard](05_Dashboard%20screenshots/PowerBI.png)
 
 🔗 Project Repository
 
