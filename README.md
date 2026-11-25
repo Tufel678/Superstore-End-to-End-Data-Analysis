@@ -103,10 +103,10 @@ B.Tech Computer Science and Engineering | 2026 Graduate
 
 ## 📊 Dashboard Screenshots
 
-### Excel Dashboard
+``` Excel Dashboard ```
 ![Excel Dashboard](Excel.png)
 
-### Power BI Dashboard
+``` Power BI Dashboard ```
 ![Power BI Dashboard](Powerbi.png)
 🔗 Project Repository
 
